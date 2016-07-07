@@ -117,8 +117,8 @@
             android:layout_alignBottom="@id/male"
             android:layout_toRightOf="@id/male"
             android:layout_toEndOf="@id/male"
-            android:layout_marginLeft="54dp"
-            android:layout_marginStart="54dp" />
+            android:layout_marginLeft="50dp"
+            android:layout_marginStart="50dp" />
 
         <TextView
             android:layout_width="wrap_content"
